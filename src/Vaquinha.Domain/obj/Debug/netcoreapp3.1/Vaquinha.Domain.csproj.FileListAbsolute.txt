@@ -1,0 +1,18 @@
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.deps.json
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csprojAssemblyReference.cache
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfoInputs.cache
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfo.cs
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\Larissa Tardivo\Desktop\dotnet-vaquinha-tests-master\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\Users\artur\Downloads\upload-VaquinhaDIO-main\upload-VaquinhaDIO-main\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.deps.json
+C:\Users\artur\Downloads\upload-VaquinhaDIO-main\upload-VaquinhaDIO-main\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\artur\Downloads\upload-VaquinhaDIO-main\upload-VaquinhaDIO-main\src\Vaquinha.Domain\bin\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
+C:\Users\artur\Downloads\upload-VaquinhaDIO-main\upload-VaquinhaDIO-main\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csproj.AssemblyReference.cache
+C:\Users\artur\Downloads\upload-VaquinhaDIO-main\upload-VaquinhaDIO-main\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfoInputs.cache
+C:\Users\artur\Downloads\upload-VaquinhaDIO-main\upload-VaquinhaDIO-main\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.AssemblyInfo.cs
+C:\Users\artur\Downloads\upload-VaquinhaDIO-main\upload-VaquinhaDIO-main\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.csproj.CoreCompileInputs.cache
+C:\Users\artur\Downloads\upload-VaquinhaDIO-main\upload-VaquinhaDIO-main\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.dll
+C:\Users\artur\Downloads\upload-VaquinhaDIO-main\upload-VaquinhaDIO-main\src\Vaquinha.Domain\obj\Debug\netcoreapp3.1\Vaquinha.Domain.pdb
